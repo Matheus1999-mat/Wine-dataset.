@@ -1,0 +1,9 @@
+In this project, I developed a system in machine learning. There is the supervised learning, with classification.
+The algorithm used in the software is Naive Bayes. Besides, to optimize the model, there's RandomForest algorithm.
+
+I used wine dataset. The libraries and frameworks used are: pandas and sklearn.
+
+In the project, the objective is to predict the quality of wine, using the data in dataframe.
+
+The data used to train the model are: fixed_acidity,volatile_acidity,citric_acid,alcohol,density and pH.
+
